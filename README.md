@@ -1,9 +1,9 @@
-### KTU Semester Exam Mark Anayser
+# KTU Semester Exam Mark Anayser
 
-# Dependencies:
+### Dependencies:
 openpyxl - pip3 install openpyxl
 
-## Changes if you use it
+### Changes if you use it
 Change this to your file
 wb = load_workbook(<your .xlsx file path>); 
 
@@ -19,7 +19,7 @@ wb = load_workbook(<your .xlsx file path>);
 
 
 
-# Things I learned : 
+## Things I learned : 
 -Use python
 -Use pip3
 -openpyxl
